@@ -27,7 +27,7 @@ const WorkspaceLayout = ({ children }: WorkspaceIdlayoputProps) => {
                     minSize={11}
                     className="bg-[#5E2C5F]"
                 >
-\                   <WorkspaceSidebar/>
+                   <WorkspaceSidebar/>
                 </ResizablePanel>
                 <ResizableHandle withHandle/>
                 <ResizablePanel
